@@ -7,17 +7,17 @@
     ]
   },
   "downfall:SoulSteal": {
-    "NAME": "Soul Stealer",
+    "NAME": "Вор душ",
     "DESCRIPTIONS": [
       "Has stolen #b",
       " of your Souls."
     ]
   },
   "downfall:NeowInvulnerable": {
-    "NAME": "God of Life",
+    "NAME": "Бог жизни",
     "DESCRIPTIONS": [
-      "Heals #b",
-      " HP whenever you play a card."
+      "Восполняет #b",
+      " ОЗ whenever you play a card."
     ]
   },
   "downfall:TransformDrawnCardsPower": {
@@ -29,9 +29,9 @@
     ]
   },
   "downfall:TotemInvulnerable": {
-    "NAME": "Living Wall",
+    "NAME": "Живая стена",
     "DESCRIPTIONS": [
-      "Cannot die unless all other Heads are at #b1 HP.  Dies if any other Head dies."
+      "Может умереть, только если все остальные Головы имеют #b1 ОЗ.  Умирает, если умирает любая другая Голова."
     ]
   },
   "downfall:ExhaustCardsPower": {

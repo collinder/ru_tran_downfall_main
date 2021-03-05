@@ -28,7 +28,7 @@
   },
   "downfall:FleeingMerchant": {
     "MOVES": [
-      "Soul Steal"
+      "Кража душ"
     ],
     "NAME": "Head of Growth",
     "DIALOG": [
@@ -38,17 +38,17 @@
   "downfall:LooterAlt": {
     "MOVES": [
     ],
-    "NAME": "Looter",
+    "NAME": "Мародёр",
     "DIALOG": [
-      "~Hey,~ you don't have any money!",
-      "@NOOOoooo!@",
-      "You're gonna die today, chump."
+      "~Эй,~ у тебя нет денег!",
+      "@НЕ-Е-Е-е-е-е-т!@",
+      "Ты сегодня умрешь, болван."
     ]
   },
   "downfall:MuggerAlt": {
     "MOVES": [
     ],
-    "NAME": "Mugger",
+    "NAME": "Грабитель",
     "DIALOG": [
       "Let's teach 'em a lesson.",
       "Teach 'em all the way!"

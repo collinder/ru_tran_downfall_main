@@ -591,10 +591,10 @@
       "You feel #psomething #p@evil@ at your very core..."
     ],
     "OPTIONS": [
-      "[Continue]",
+      "[Продолжить]",
       "[Give] #b???",
-      "[Sleep]",
-      "[Approach Door]"
+      "[Спасть]",
+      "[Подойти к двери]"
     ]
   },
   "downfall:EvilShrines": {

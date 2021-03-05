@@ -1,9 +1,9 @@
 {
   "downfall:EvilMenuPanel": {
     "TEXT": [
-      "Downfall",
+      "Падения",
       "Defend the Heart from adventuring intruders who intend to Slay the Spire.",
-      "Choose Your Villain",
+      "Выберите злодея",
       "Campaign"
     ]
   },
@@ -15,14 +15,14 @@
   },
   "downfall:BustKeyButton": {
     "TEXT": [
-      "Break Ruby",
-      "Break Sapphire",
-      "Break Emerald",
+      "Разбить Рубин",
+      "Разбить Сапфир",
+      "Разбить Изумруд",
       "(Free Action) Spend 100 Souls: Destroy key to ",
       "gain 1 Strength.",
       "raise Max HP by 10.",
       "gain 1 Dexterity.",
-      "Key shattered!",
+      "Ключ разбит!",
       "Requires ",
       " Souls.",
       "(Free Action) Destroy key to "
@@ -30,9 +30,9 @@
   },
   "downfall:WheelSpinButton": {
     "TEXT": [
-      "Spin Wheel",
-      "(Free Action) Spin the Wheel.",
-      "Can't Spin Again."
+      "Крутить колесо",
+      "(Свободное действие) Крутить колесо.",
+      "Больше не можете крутить."
     ]
   },
   "downfall:AscensionText": {
@@ -59,33 +59,33 @@
   },
   "downfall:EnergyPanelTip": {
     "TEXT": [
-      "Enemy's current energy count. Cards require energy to play."
+      "Ваше текущее количество энергии. Она требуется для разыгрывания карт."
     ],
     "EXTRA_TEXT": [
-      "Energy"
+      "Энергия"
     ]
   },
   "downfall:RemoveCardReward": {
   "TEXT": [
-    "Remove a card in your deck",
-    "Choose a Card to Remove"
+    "Убрать карту из колоду",
+    "Выберите карту, которую хотите убрать"
   ]
 },
   "downfall:TransformCardReward": {
     "TEXT": [
-      "Transform a card in your deck",
-      "Choose a Card to Transform"
+      "Преобразовать карту",
+      "Выберите карту, которую хотите преобразовать"
     ]
   },
   "downfall:UpgradeCardReward": {
     "TEXT": [
-      "Upgrade a card in your deck",
-      "Choose a Card to Upgrade"
+      "Улучшить карту",
+      "Выберите карту, которую хотите улучшить"
     ]
   },
   "downfall:BossRelicReward": {
     "TEXT": [
-      "Choose 1 of 3 Boss Relics to obtain.",
+      "Выберите 1 из 3 реликвий босса, которую хотите получить.",
       "Obtain a ",
       ".",
       "Choose a Relic.. sorta"
@@ -93,7 +93,7 @@
   },
   "downfall:EtherealMod": {
     "TEXT": [
-      "Ethereal. NL "
+      "Эфирная. NL "
     ]
   },
   "downfall:JaxReward": {
@@ -109,7 +109,7 @@
   "downfall:OctoChoiceAction": {
     "TEXT": [
       "Choose an option.",
-      "You should never see this. Oops"
+      "Вы не должны были это видеть. Упс"
     ]
   },
   "downfall:BossCardReward": {

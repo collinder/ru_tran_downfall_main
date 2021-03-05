@@ -1,10 +1,10 @@
 {
   "downfall:CursedFountainPotion": {
-    "NAME": "Cursed Fountain Liquid",
+    "NAME": "Проклятая вода из Фонтана",
     "DESCRIPTIONS": [
-      "Apply #b",
-      " #yWeak, #b",
-      " #yVulnerable, and reduce #yStrength by #b",
+      "Накладывает #b",
+      " #yСлабости, #b",
+      " #yУязвимости, и снижает #yСилу на #b",
       "."
     ]
   }
