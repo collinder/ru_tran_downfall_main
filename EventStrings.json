@@ -9,34 +9,34 @@
     ]
   },
   "downfall:GremlinMatchGame": {
-    "NAME": "Match and Keep!",
+    "NAME": "Совмещай и забирай!",
     "DESCRIPTIONS": [
-      "\" ... #bT-twelve cards! Match them to keep them! #bF-five tries... no do-overs. NL Are you ready? Let's start!\"",
-      "You complete the gremlin's game and look up. NL He disappeared?",
-      "A gremlin is madly shuffling cards on a table. This monster seems to be a harmless one. As you approach, he nervously breaks his composure for a moment, but finds the courage to address you.",
-      "Immediately, the gremlin shouts! NL NL \"NOB!!!\" NL NL A lumbering gremlin emerges from the shadows, towering over the gremlin, the table, and you. NL \"Are you sure you don't want to play the game?\", the gremlin asks."
+      "« ... #bДве-двенадцать карт! Находи пары одинаковых и оставляй себе! #bПя-пять попыток... никаких вторых шансов. NL Всё ясно? Начнём!»",
+      "Вы завершаете игру гремлина и поднимаете взгляд. NL Он исчез?",
+      "Гремлин яростно мешает карты на столе. Этот монстр, похоже, безобиден. Когда вы приближаетесь, он на мгновение испуганно теряет самообладание, но всё-таки находит в себе смелость обратиться к вам.",
+      "Мгновенно гремлин кричит! NL NL «ВЕРЗИЛА!!!» NL NL Громыхающий гремлин выходит из тени, возвышаясь над гремлином, столом и тобой. NL «Вы уверены, что не хотите играть в игру?» - спросил гремлин."
     ],
     "OPTIONS": [
-      "[Continue]",
+      "[Продолжить]",
       "[Уйти]",
-      "[Play]",
-      "Remaining Attempts: #y",
-      "[Intimidate] Steal 6 cards.",
-      "[Punch] #rFight. #gGain #g6 #gCards."
+      "[Играть]",
+      "Осталось попыток: #y",
+      "[Запугать] Украсть 6 карт.",
+      "[Ударить] #rДраться. #gПолучить #g6 #gкарт."
     ]
   },
   "downfall:WomanInBlue": {
-    "NAME": "The Woman in Blue",
+    "NAME": "Женщина в синем",
     "DESCRIPTIONS": [
-      "Tucked in the darkness, you spot a small shop. Within, you see a pale woman in sharp clothes managing an inventory of potions, stacked along a wall. She is startled by your threatening appearance. NL \"Leave me and my wares alone, cretin!\" she screams.",
-      "You exit the shop cautiously, not wanting to spur the woman into a fight.",
+      "Затаившись в темноте, вы замечаете маленький магазинчик. Внутри вы замечаете бледную женщину в строгой одежде, торгующую зельями, заставленными на стеллажах. Она перепугана вашим угрожающим видом. NL «Оставь меня и мои товары в покое, кретин!» - кричит она.",
+      "Вы осторожно покидаете магазин, не желая спровоцировать женщину на драку.",
       "#r@WHAM@ NL Her gloved fist collides with your face, nearly knocking you off your feet. NL \"Get out before I litter the floor with your guts.\" You take her word and exit with your guts still safely in your body."
     ],
     "OPTIONS": [
-      "[Leave]",
-      "[Leave] #rTake #r",
-      " #rDamage.",
-      "[Punch] #rFight. #gGain #ga #gPotion #gRelic #gand #g3 #gPotions."
+      "[Уйти]",
+      "[Уйти] #rПолучить #r",
+      " #rурона.",
+      "[Ударить] #rДраться. #gПолучить #g3 #gЗелья #gи #gРеликвию #gсвязанную #gс #gЗельями."
     ]
   },
   "downfall:GremlinWheelGame": {
