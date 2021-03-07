@@ -501,13 +501,13 @@
     ]
   },
   "downfall:SecretPortal": {
-    "NAME": "Secret Portal",
+    "NAME": "Секретный портал",
     "DESCRIPTIONS": [
-      "Before you is a welcome sight - in one of the living walls of the Beyond is an enclosed stone entrance filled with a #p~swirling~ #p~magical~ #p~portal.~ NL NL This portal allows for quick access to the Beyond's overlord. However, if you take the stone that powers it, your journey through the Spire would be hastened.",
-      "The portal can always be repaired later. You pry the runed stone that powers the gateway, and quickly contemplate where to head next. The stone will only remain useful for a brief moment."
+      "Перед собой вы видите нечто весьма хорошее - в одной из живых стен Запределья каменный проход, внутри которого находится #p~вращающийся~ #p~магический~ #p~портал.~ NL NL Этот портал позволяет быстро добраться до повелителя Запределья. Однако, если вы заберете камень, питающий портал, ваше путешествие по Шпилю ускорится.",
+      "Портал можно будет и позже починить. Вы вырываете рунный камень, питающий врата, и срочно решаете, куда отправиться дальше. Камень будет полезен очень недолго."
     ],
     "OPTIONS": [
-      "[Take Stone] Skip to any non-Boss Room."
+      "[Взять камень] Прыгнуть в любую комнату, кроме комнаты с боссом."
     ]
   },
   "downfall:TombRedMask": {

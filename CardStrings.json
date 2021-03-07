@@ -28,8 +28,8 @@
     "DESCRIPTION": "Deal !D! damage."
   },
   "downfall_Charboss:Defend_Crowbot": {
-    "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block."
+    "NAME": "Оборона",
+    "DESCRIPTION": "Даёт !B! Защиты."
   },
   "downfall_Charboss:Boom": {
     "NAME": "Boom",
