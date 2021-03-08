@@ -88,12 +88,12 @@
     ]
   },
   "downfall:Augmenter": {
-    "NAME": "Augmenter",
+    "NAME": "Усилитель",
     "DESCRIPTIONS": [
-      "A man with an eyepatch and a devilish grin strides up to you. NL \"Oh my, what a terrifying subject! You may not care for science, but I promise you - I can make you stronger than any harvesting of souls. You're gonna need it if you're going after one of those \"heroes\".\" NL NL ~\"Whad'ya~ ~say?\"~"
+      "К вам вразвалку подходит мужчина с повязкой на глазу и дьявольской ухмылкой. NL \"Oh my, what a terrifying subject! You may not care for science, but I promise you - I can make you stronger than any harvesting of souls. You're gonna need it if you're going after one of those \"heroes\".\" NL NL ~\"Whad'ya~ ~say?\"~"
     ],
     "OPTIONS": [
-      "[Punch] #rFight. #gTake #gEverything."
+      "[Врезать] #rДраться. #gЗабрать #gвсё."
     ]
   },
   "downfall:BonfireSpirits": {
@@ -107,12 +107,12 @@
     ]
   },
   "downfall:FaceTrader": {
-    "NAME": "Face Trader",
+    "NAME": "Торговец лицами",
     "DESCRIPTIONS": [
-      " NL NL He doesn't look like he would put up much of a fight, but he has survived in this place. Perhaps these masks hold some power..."
+      " NL NL Не похоже, что он окажет серьезное сопротивление, но он смог выжить в этом месте. Возможно, в этих масках есть некоторая сила..."
     ],
     "OPTIONS": [
-      "[Punch] #rFight. #g100%: #gAll #gFace."
+      "[Врезать] #rДраться. #g100%: #gВсе #gлица."
     ]
   },
   "downfall:CursedFountain": {
@@ -230,9 +230,9 @@
     ]
   },
   "downfall:Serpent": {
-    "NAME": "The Ssssserpent",
+    "NAME": "З-з-з-з-змей",
     "DESCRIPTIONS": [
-      "You walk into a room to find a large hole in the ground. As you approach the hole, an enormous serpent creature appears from within. NL NL ~\"Ho~ ~hooo!~ ~Hello~ ~hello!~ ~what~ ~have~ ~we~ ~got~ ~here?~ To you, my overlord, I ask a simple question. NL The most fulfilling of lives is that in which you can #r~punch~ #r~anything!~ NL Do you agree?\"",
+      "Вы заходите в комнату и обнаруживаете широкую дыру в земле. Когда вы подходите ближе, оттуда вылезает огромный змей. NL NL ~«О-го-го!~ ~Привет,~ ~привет!~ ~Что~ ~это~ ~тут~ ~у~ ~нас?~ To you, my overlord, I ask a simple question. NL The most fulfilling of lives is that in which you can #r~punch~ #r~anything!~ NL Do you agree?\"",
       "~\"Hssssssssssss..~ ~..ssSSs.....~ ~ss...~ ~sssss....\"~",
       "The serpent stares at you with a look of extreme disappointment.",
       " NL NL The serpent rears its head and cries an awful scream. As its body goes limp and falls into the pit, the life force of the creature becomes readily available for harvesting. NL NL It is awe-inspiring, but you can't help but wonder if the serpent was speaking metaphorically. Perhaps it intended to aid and encourage you to do violence on others, but not itself..."
