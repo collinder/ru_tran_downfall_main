@@ -282,9 +282,9 @@
     ]
   },
   "downfall:Cleric": {
-    "NAME": "The Cleric",
+    "NAME": "Клирик",
     "DESCRIPTIONS": [
-      "A strange blue humanoid with a glimmering helm(?) approaches you with a huge smile. NL Upon realizing just what you are, the creature's beaming grin swiftly turns to a look of pure terror. NL ~\"M-MONSTER!!\"~ the figure shouts, turning around to flee.",
+      "К вам с улыбкой приближается странный синий гуманоид в золотом шлеме(?). NL Upon realizing just what you are, the creature's beaming grin swiftly turns to a look of pure terror. NL ~\"М-МОНСТР!!\"~ the figure shouts, turning around to flee.",
       "The creature crumples in a single blow, falling into a pile of mangled blue flesh. You absorb its #ysoul and continue on your way.",
       "\"Cleric help! Cleric help!\" the creature says as you approach menacingly. NL A cold blue flame envelops your body and dissipates. NL Immediately after, this \"Cleric\" flees."
     ],
