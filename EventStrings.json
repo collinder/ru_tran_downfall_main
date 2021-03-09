@@ -366,15 +366,15 @@
     ]
   },
   "downfall:Vagrant": {
-    "NAME": "Pleading Vagrant",
+    "NAME": "Умоляющий бродяга",
     "DESCRIPTIONS": [
-      "You kill the man and harvest his soul. ~Gasps~ come from the crowd behind you. NL \"He just killed Burgundy!\" a figure says, as more beggars just like the one you encountered begin to approach you. NL NL You escape, but not without some #rclaws and #rbites.",
-      "You snatch the precious #yrelic from his clutches and walk away. NL From behind you hear, NL \"Have you no shame? ~HAVE~ ~YOU~ ~NO~ ~SHAAAAAME?!\"~ NL You have #pabsolutely #pno #pshame. It is an honor to be robbed by an Overlord of the Spire!"
+      "Вы убиваете бродягу и собираете его душу. ~Возгласы~ раздаюся из толпы позади вас. NL \"Он только что уьмо Бургунди!\" говорит фигура, пока больше таких же бродяг приближаются к вам. NL NL Вы сбегаете, но не избежав #rцарапин и #rукусов.",
+      "Вы вырываете у него из рук драгоценную #yреликвию и уходите. NL Вслед вам доносится: NL «Совсем стыд потерял? ~ПОЗОР~ ~ТАКИМ~ ~КАК~ ~ТЫЫЫЫЫЫЫЫЫЫ!»~ NL Вам #pточно #pне #pстыдно. Это честь - быть ограбленным Повелителем Шпиля!"
     ],
     "OPTIONS": [
-      "[Punch] #gGain #g85 #gSouls. #rLose #r",
-      " #rHP.",
-      "[Rob] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rPride."
+      "[Врезать] #gПолучить #g85 #gДуш. #rПотерять #r",
+      " #rОЗ.",
+      "[Rob] #gПолучить #gреликвию. #rПолучить #rпроклятье #r- #rГордость."
     ]
   },
   "downfall:Beggar": {
@@ -450,18 +450,18 @@
     ]
   },
   "downfall:MindBloom": {
-    "NAME": "Mind Bloom",
+    "NAME": "Расцвет сознания",
     "DESCRIPTIONS": [
-      "While walking and traversing through the beauty of the Beyond, your thoughts suddenly begin to feel very... #p~real...~ NL NL Imaginings of #rslain #radventurers and #bhoarded #bsouls begin to manifest themselves into reality. NL The sensation is quickly fleeting. What do you do?",
-      "You know you have been here before. NL NL Hunting the same adventurer. NL NL Is any of this real? NL NL How many times have you been slain?",
-      "Everything makes sense now. NL The singular purpose, the descent, the #pHeart. NL NL This is the way it always was. NL This is the way it always will be. NL All will be forgotten again soon..."
+      "Вы пробираетесь сквозь великолепие Запределья, и неожиданно ваши мысли начинают обретать... #p~материальность...~ NL NL Воплощения #rубитых #rавантюристов и #yсобранных душ просачиваются в реальность. NL Однако это чувство крайне мимолётно. Ваши действия?",
+      "Вы знаете, что были здесь раньше. NL NL Охотясь на одного и того же авантюриста. NL NL Хоть что-то из всего этого реально? NL NL Как много раз вы пали?",
+      "Всё встало на свои места. NL Единственная цель, спуск, #pСердце. NL NL Так было всегда. Так будет всегда. И вскоре всё будет вновь позабыто..."
     ],
     "OPTIONS": [
-      "[I am an Echo] #rFight #ryourself. #gObtain #ga #gRare #gRelic.",
-      "[I am Gorged] #gGain #g999 #gSouls. #rCursed #r- #r2 #rNormality.",
-      "[I am Complete] #gUpgrade #gall #gCards. #rLose #rHeart #rBlessings and #r10 #rMax #rHP.",
-      "[Locked] Requires all 3 Heart Blessings.",
-      "[Leave]"
+      "[Я эхо] #rСразиться #rс #rсобой. #gПолучить #gРедкую #gреликвию.",
+      "[Я обжора] #gПолучить #g999 #gДуш. #rПолучить #r2 #rПроклятия #r- #rОбыденность.",
+      "[Я завершен] #gУлучшить #gвсе #gкарты. #rПотерять #rБлагословления #rСердца и #r10 #rМакс. #rОЗ.",
+      "[Закрыто] Требуются все 3 Благословления Сердца.",
+      "[Уйти]"
     ]
   },
   "downfall:MoaiHead": {
@@ -476,7 +476,7 @@
       "[Offer Souls] #rLose #r",
       " #rSouls. #gGain #g",
       " #gMax #gHP and #gHeal #gto #gfull.",
-      "[Locked] Requires ",
+      "[Закрыто] Requires ",
       " Souls."
     ]
   },
@@ -484,7 +484,7 @@
     "NAME": "Sensory Stone",
     "DESCRIPTIONS": [
       "#g~VANITY.~ NL NL Life is a beautiful, magnificent thing... even to a #gslime. NL NL You’ve always known you were destined for great things. The others all settle for coins and bits of scraps, but not you. You wait, like a predator, for something special. Something unique. Something ~fabulous.~ NL NL Days... weeks... maybe years pass by... it’s hard to tell in the Spire. Until, at last, you spot it. No longer will you be counted just among the masses! They may have their #ycoins and #ytrinkets, but you have something better... NL NL @A@ @TINY@ @BOWLER@ @HAT!@ Dashing!",
-      "#y~FRAILTY.~ NL NL The #rblade enters your chest, and the cheer of the #bcrowd fills your ears... the last thing you will ever feel is a hand striking across your face, and your eyes close. NL NL You awaken in an unfamiliar room, @unable@ @to@ @move.@ You try to speak, but no words come out, and your vision is clouded in a #ggreen #gfog. Is this a dream? Is this the afterlife? You try to remember, but your thoughts are as disjointed as your arms and legs. NL NL You hear a voice in your mind - a single command. #g\"BALANCE #gmust #gbe #gENFORCED. #gGUARD #gExordium.\"",
+      "#y~ХРУПКОСТЬ.~ NL NL #rКлинок входит вам в грудь, и рев #bтолпы наполняет ваши уши...  last thing you will ever feel is a hand striking across your face, and your eyes close. NL NL You awaken in an unfamiliar room, @unable@ @to@ @move.@ You try to speak, but no words come out, and your vision is clouded in a #ggreen #gfog. Is this a dream? Is this the afterlife? You try to remember, but your thoughts are as disjointed as your arms and legs. NL NL You hear a voice in your mind - a single command. #g\"BALANCE #gmust #gbe #gENFORCED. #gGUARD #gExordium.\"",
       "#p~HOPELESSNESS.~ NL NL #yWatch. #yRemember. #yLive. This is the Watcher's mission. Your assignment is to investigate a Spire of unknown origin.  You enter a hexagonal room and before you can react, the door @collapses@ @behind@ @you!@ NL NL There is no escape. The only path that may lead out is by taking a tablet, clearly infused with magic, which lays upon a pedestal. The moment your skin touches the artifact, your body ~dissolves~ ~into~ ~nothing,~ and your #psoul is pulled into the #pstone. NL NL Your fate will forever be tied to the #ptablet, #rcursed to wander the Spire for eternity.",
       "#y~DETACHMENT.~ NL NL You are the first. You serve the ~Maker.~ You are not born, with frailty and weakness, but created. Perfect. And in your image shall you create more constructs. The #yautomatons of the Maker’s legacy. NL NL Each one flawless in its design, all to serve a specific purpose. All but one. The one meant to maintain balance in the City. NL NL You cast the #ydefective #yconstruct from the tallest window, plunging it to the bottom of the Spire, and take his place as the City's protector. NL NL Balance must be enforced.",
       "#b~PRIDE.~ NL NL You stand at the center of a grand arena. Everything you have worked for culminates in this one singular combat. You take up a #bdefensive #bstance, draining the stamina of your enemy, until an opening presents itself. With your last bit of strength, you #rplunge #ryour #rblade into the chest of your opponent. The audience erupts in @thunderous@ @applause!@ NL NL Not one to stop at just winning, you raise your open hand and strike your foe ~across~ ~the~ ~face,~ delivering a most insulting final blow. NL NL There is no one in your way now. You are the new #b@Champion!@",
