@@ -84,7 +84,7 @@
   "downfall:LivingWall": {
     "NAME": "Живая стена",
     "OPTIONS": [
-      "[Punch] #rДраться. #gПринять #gвсе #g3 #gГоловы."
+      "[Врезать] #rДраться. #gПринять #gвсе #g3 #gГоловы."
     ]
   },
   "downfall:Augmenter": {
