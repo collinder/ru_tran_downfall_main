@@ -353,28 +353,29 @@
     ]
   },
   "downfall:KnowingSkull": {
-    "NAME": "Knowing Skull",
+    "NAME": "Всеведущий череп",
     "DESCRIPTIONS": [
-      "You find yourself in an old, decorated chamber. In the center of the room, a large skull sits atop an ornate pedestal. As you approach, the skull #g@bursts@ #g@into@ #g@flames@ and turns to face you. NL NL \"WHAT IS IT YOU SEEK? WHAT IS IT YOU OFFER?\" NL In sync with its final words, the door behind you @slams@ @shut.@",
-      "\"Heyheyheyheyhandsoffthenoggin-\" NL NL Ignoring the skull's complaints, you snatch it from the pedestal, momentarily #rscorched by its flames. Perhaps it will come in handy later...",
-      "\"BEHIND YOU, MORTAL.\" NL You peek behind the skull. Surely enough, there is a door."
+      "Вы оказываетесь в старой украшенной палате. В центре комнаты расположен живописный пьедестал, на котором лежит большой череп. Как только вы приближаетесь, череп #g@воспламеняется@ и поворачивается к вам.",
+      "«ЧТО ТЫ ИЩЕШЬ? ЧТО ПРЕДЛАГАЕШЬ?» NL В унисон его последним словам дверь позади вас @захлопывается.@",
+	"\"Heyheyheyheyhandsoffthenoggin-\" NL NL Ignoring the skull's complaints, you snatch it from the pedestal, momentarily #rscorched by its flames. Perhaps it will come in handy later...",
+      "«СЗАДИ, СМЕРТНЫЙ». NL Вы заглядываете за череп. И вправду — дверь."
     ],
     "OPTIONS": [
-      "[You.] #gObtain #gthe #gSkull. #rLose #r",
-      "[Leave]",
-      " #rHP."
+      "[Тебя.] #gПолучить #gЧереп. #rПотерять #r",
+      "[Уйти]",
+      " #rОЗ."
     ]
   },
   "downfall:Vagrant": {
     "NAME": "Умоляющий бродяга",
     "DESCRIPTIONS": [
-      "Вы убиваете бродягу и собираете его душу. ~Возгласы~ раздаюся из толпы позади вас. NL \"Он только что уьмо Бургунди!\" говорит фигура, пока больше таких же бродяг приближаются к вам. NL NL Вы сбегаете, но не избежав #rцарапин и #rукусов.",
+      "Вы убиваете бродягу и забираете его душу. ~Возгласы~ раздаюся из толпы позади вас. NL \"Он только что уьмо Бургунди!\" говорит фигура, пока больше таких же бродяг приближаются к вам. NL NL Вы сбегаете, но не избежав #rцарапин и #rукусов.",
       "Вы вырываете у него из рук драгоценную #yреликвию и уходите. NL Вслед вам доносится: NL «Совсем стыд потерял? ~ПОЗОР~ ~ТАКИМ~ ~КАК~ ~ТЫЫЫЫЫЫЫЫЫЫ!»~ NL Вам #pточно #pне #pстыдно. Это честь - быть ограбленным Повелителем Шпиля!"
     ],
     "OPTIONS": [
       "[Врезать] #gПолучить #g85 #gДуш. #rПотерять #r",
       " #rОЗ.",
-      "[Rob] #gПолучить #gреликвию. #rПолучить #rпроклятье #r- #rГордость."
+      "[Ограбить] #gПолучить #gреликвию. #rПолучить #rпроклятье #r- #rГордость."
     ]
   },
   "downfall:Beggar": {
