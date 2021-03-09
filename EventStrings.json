@@ -22,7 +22,7 @@
       "[Играть]",
       "Осталось попыток: #y",
       "[Запугать] Украсть 6 карт.",
-      "[Ударить] #rДраться. #gПолучить #g6 #gкарт."
+      "[Врезать] #rДраться. #gПолучить #g6 #gкарт."
     ]
   },
   "downfall:WomanInBlue": {
@@ -36,7 +36,7 @@
       "[Уйти]",
       "[Уйти] #rПолучить #r",
       " #rурона.",
-      "[Ударить] #rДраться. #gПолучить #g3 #gЗелья #gи #gРеликвию, #gсвязанную #gс #gЗельями."
+      "[Врезать] #rДраться. #gПолучить #g3 #gЗелья #gи #gРеликвию, #gсвязанную #gс #gЗельями."
     ]
   },
   "downfall:GremlinWheelGame": {
@@ -70,8 +70,8 @@
       "Выберите карту, которую хотите убрать.",
       "[Снова!]",
       "[СНОВА!!]",
-      "[Ударить] #rДраться. #gПолучить #gКолесо #gгремлина.",
-      "[Пройти мимо] Попробовать в другой раз."
+      "[Врезать] #rДраться. #gПолучить #gКолесо #gгремлина.",
+      "[Проигнорировать] Попробовать в другой раз."
     ]
   },
   "downfall:GremlinWheelGameRest": {
@@ -82,9 +82,9 @@
     ]
   },
   "downfall:LivingWall": {
-    "NAME": "Living Wall",
+    "NAME": "Живая стена",
     "OPTIONS": [
-      "[Punch] #rFight. #gUse #gall #g3 #gHeads."
+      "[Punch] #rДраться. #gПринять #gвсе #g3 #gГоловы."
     ]
   },
   "downfall:Augmenter": {
@@ -97,13 +97,13 @@
     ]
   },
   "downfall:BonfireSpirits": {
-    "NAME": "Bonfire Elemental",
+    "NAME": "Духи костра",
     "DESCRIPTIONS": [
-      "The spirits hungrily consume your offering! They gorge themselves on souls, burning brighter as the fire @doubles@ in strength. NL The spirits dance around you excitedly before ~merging~ ~into~ ~your~ ~form,~ filling you with warmth and strength. NL Your Max HP increases by #b10 and you are #ghealed to full HP."
+      "Духи жадно поглощают ваше подношение! Они пожирают души, пылая ярче @солнца.@ NL Духи оживлённо танцуют вокруг вас, прежде чем ~слиться~ ~с~ ~вашей~ ~формой,~ наполняя вас теплом и силой. NL Вы #gвосполняете весь запас ОЗ и повышаете его на #b10."
     ],
     "OPTIONS": [
-      "[Donate] #rLose #r150 #rSouls. #gGain #g10 #gMax #gHP.",
-      "[Locked] Requires 150 Souls."
+      "[Заплатить] #rПотерять #r150 #rдуш. #gМакс. #gОЗ #g+10.",
+      "[Закрыто] Требуется: не менее 150 Душ."
     ]
   },
   "downfall:FaceTrader": {
@@ -332,15 +332,15 @@
     ]
   },
   "downfall:Bandits": {
-    "NAME": "Masked Bandits",
+    "NAME": "Бандиты в масках",
     "DESCRIPTIONS": [
-      "You encounter a group of bandits wearing large #rred #rmasks. NL \"Hello, pay up t- Oh, a ~monster.~ Maybe you'd have need of our services?\"",
-      "Thanks a bunch, whacko! You certainly won't regret this..."
+      "Вы встречаете группу бандитов в больших #rкрасных #rмасках. NL «Привет, запла- Оу, ~монстр.~ Возможно, ты заинтересуешься в наших услугах?»",
+      "«Большое спасибо, чокнутый! Ты, конечно, не пожалеешь об этом...»"
     ],
     "OPTIONS": [
-      "[Lose ",
-      "] #gHire #gthe #gBandits.",
-      "[Locked] Requires more Relics."
+      "[Потерять ",
+      "] #gНанять #gбандитов.",
+      "[Закрыто] Требуется: больше Реликвий."
     ]
   },
   "downfall:Nloth": {
