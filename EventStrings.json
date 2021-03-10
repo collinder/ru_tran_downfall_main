@@ -418,16 +418,16 @@
       "#rYou #rplunge #rthe #rdagger #rinto #rthe #rcultist's #rheart! NL NL #b~\"CAW~ #b~CAAAAW~ #b~CAAAAAWWW!\"~ NL NL The ritual is completed, and the surviving cultists could not appear happier. They wave their sticks in celebration and continue to call out a cheering caw as you exit the cathedral."
     ],
     "OPTIONS": [
-      "[Return Statue] #rLose #rBroken #rWing #rStatue. #gGain #gmany #grewards.",
-      "[Locked] Requires Broken Wing Statue.",
-      "[Accept] #gGain #gCultist #gPotion.",
-      "[Steal] #gObtain Ritual Dagger. #rLose #r",
+      "[Вернуть статую] #rLose #rBroken #rWing #rStatue. #gGain #gmany #grewards.",
+      "[Закрыто] Requires Broken Wing Statue.",
+      "[Принять] #gGain #gCultist #gPotion.",
+      "[Украсть] #gObtain Ritual Dagger. #rLose #r",
       " #rHP.",
-      "[Leave]",
-      "[Continue]",
-      "[Take Dagger] #gGain #gRitual #gDagger.",
-      "[Anoint] #gUpgrade #gRitual #gDagger.",
-      "[Sacrifice] #rKill #rCultist with Ritual Dagger+.",
+      "[Уйти]",
+      "[Продолжить]",
+      "[Забрать кинжал] #gGain #gRitual #gDagger.",
+      "[Смазать] #gUpgrade #gRitual #gDagger.",
+      "[Пожертовать] #rKill #rCultist with Ritual Dagger+.",
       "[Be Praised] #gGain #grewards for returning the #gBroken #gWing #gStatue."
     ]
   },
