@@ -177,26 +177,26 @@
     ]
   },
   "downfall:DeadGuy": {
-    "NAME": "Fallen Adventurer",
+    "NAME": "Мертвый странник",
     "DESCRIPTIONS": [
-      "While channeling the ritual you are caught off guard!",
-      "You exit without a sound.",
-      "You come across a #rdead #radventurer on the floor. NL His spirit still lingers in the area. Also, ",
-      "the armor and face appear to be #r@scoured@ #r@by@ #r@flames.@ ",
-      "it looks as though he's been #r@gouged@ #r@and@ #r@trampled@ by a horned beast. ",
-      "he looks to have been #r@eviscerated@ #r@and@ #r@chopped@ by giant claws. ",
-      "NL A soul harvesting ritual could yield results here, but whichever creature slew this man may return soon.",
-      "The ritual yields souls from the corpse! NL Continue channeling?",
-      "The spell is unable to pull the fallen man's spirit... NL Continue channeling?",
-      "Your magic causes the body to twitch and shake, and from its pockets falls a #yrelic! NL Continue channeling?",
-      "The ritual has been completed!"
+      "Вы начинаете проводить ритуал, как вдруг вас застигают врасплох!",
+      "Вы бесшумно выходите.",
+      "Вы натыкаетесь на лежащего на полу #rмёртвого #rстранника. NL Его дух все ещё тут задержался. А ещё, ",
+      "его доспехи и лицо словно #r@обожжены@ #r@огнём.@ ",
+      "его, похоже, #r@растерзал@ #r@и@ #r@растоптал@ какой-то рогатый зверь. ",
+      "его, похоже, #r@выпотрошил@ #r@и@ #r@разорвал@ кто-то с огромными когтями. ",
+      "NL Ритуал сбора душ может принести тут результаты, но создание, убившее этого странника может скоро вернуться.",
+      "Ритуал собирает #yдуши с трупа! NL Продолжить проводить?",
+      "Ваши чары не могут добраться до духа павшего скитальца... NL Продолжить проводить?",
+      "Из-за вашей магии тело дергается и дрожит, и из его карманов падает #yреликвия! NL Продолжить проводить?",
+      "Похоже, вам удалось завершить ритуал!"
     ],
     "OPTIONS": [
-      "[Soul Harvest] #gFind #gLoot. #r",
-      "[Leave]",
-      "[Fight]",
-      "[Continue] #gFind #gLoot. #r",
-      "%: #rmonster #rreturns."
+      "[Собирать души] #gНайти #gдобычу. #r",
+      "[Уйти]",
+      "[Драться]",
+      "[Продолжить] #gНайти #gдобычу. #r",
+      "%: #rмонстр #rвернется."
     ]
   },
   "downfall:ShiningLight": {
@@ -266,19 +266,19 @@
   "downfall:GoldenIdol": {
     "NAME": "Golden Idol",
     "DESCRIPTIONS": [
-      "You come across an inconspicuous pedestal with a #yshining #yidol sitting peacefully atop. It looks incredibly valuable. NL NL Wandering adventurers are certain to be attracted to this object. It may be worthwhile to set up a trap.",
-      "You come across an inconspicuous pedestal with a #yshining #yidol sitting peacefully atop. It looks incredibly valuable. NL NL The body of an adventurer lays a short distance down the hall, clearly crushed by a massive object. Their soul still lingers in the area.",
+      "Вы натыкаетесь на пьедестал, где мирно стоит #yсияющий #yзолотой #yидол. Он выглядит очень ценным. NL NL Wandering adventurers are certain to be attracted to this object. It may be worthwhile to set up a trap.",
+      "Вы натыкаетесь на пьедестал, где мирно стоит #yсияющий #yзолотой #yидол. Он выглядит очень ценным. NL NL The body of an adventurer lays a short distance down the hall, clearly crushed by a massive object. Their soul still lingers in the area.",
       "Using the Idol's weight as a trigger, you rig up a simple trap to cause a nearby giant boulder to collapse into the room should anyone try to claim the #yshining artifact. NL Satisfied with the construction of your trap, you decide to move on.",
       "You channel the adventurer's spirit into your body, absorbing its energy into your own.",
       "You decide to leave the pedestal intact. Setting a trap is beneath you.",
       "You decide to leave the soul alone and continue on your way."
     ],
     "OPTIONS": [
-      "[Set Trap] #rLose #ra #rStrike.",
-      "[Harvest] #gGain #y",
-      " #ySouls.",
-      "[Leave]",
-      "[Locked] Requires a Strike."
+      "[Установить ловушку] #rПотерять #rУдар.",
+      "[Собрать] #gПолучить #y",
+      " #yДуш.",
+      "[Уйти]",
+      "[Закрыто] Требуется Удар."
     ]
   },
   "downfall:Cleric": {
@@ -310,10 +310,10 @@
     ]
   },
   "downfall:CursedTome": {
-    "NAME": "Cursed Tome",
+    "NAME": "Проклятый фолиант",
     "DESCRIPTIONS": [
-      "In an abandoned temple, you find a giant book, open, riddled with #p@cryptic@ #p@writings.@ NL NL You need not interpret the elaborate script, for you know the power that lies within - and the #rcost it incurs upon its owner.",
-      "Understanding the cost, you decide to take the tome with you. As you reach for the pedestal, the trance of the tome speaks to you in a #rthousand #rvoices, clawing at your very soul! NL NL With the book secured, and your mind even more corrupted than it was before, you exit the temple feeling #b~drained...~"
+      "В заброшенном храме вы находите огромную открытую книгу, исписанную #p@загадочными@ #p@символами.@ NL NL Вам нет нужды разбирать искусный текст, вы и так знаете силу, таящуюся внутри - и #rцену, которую несет его владелец.",
+	"Понимая цену, вы решаете забрать фолиант с собой. Как только вы тянетесь к пьедесталу с фолиантом, фолиант ввергает вас в транс, где он говорит с вами в #rтысяче #rголосов, разрывая вашу душу! NL NL С новоприобретенной книгой, и вашим разумом даже сильнее испорченным, чем раньше, вы выходите из храма в полном #b~истощении...~"
     ]
   },
   "downfall:ForgottenAltar": {
