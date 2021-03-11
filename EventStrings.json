@@ -511,21 +511,21 @@
     ]
   },
   "downfall:TombRedMask": {
-    "NAME": "Tomb of Lord Red Mask",
+    "NAME": "Гробница лорда Красной маски",
     "DESCRIPTIONS": [
-      "A highly ornamented tomb can be seen on the other side of a floating path. NL NL Upon reaching the tomb, you notice a soft wall, likely holding a secret compartment. One good strike should be enough to break it down.",
-      "You don the #rmask. The bandits who agreed to assist you seem to have a connection with this Lord - perhaps they will be inspired by your new adornment.",
+      "На другой стороне висящей в воздухе тропы вы видите изящно расписанную гробницу. NL NL Дойдя до неё, вы замечаете мягкую стену, скорее всего скрывающую секретный отсек. Одного хорошего удара должно хватить для её пролома.",
+      "Вы жертвуете #rмаску. Бандиты, согласившиеся помогать вам, имеют какую-то связь с этим Лордом - возможно они будут вдохновлены вашим пожертвованием.",
       "An opening appears in the tomb and out slides a small red mask with a note attached. \"Take from others as I have taken from you!\"",
       "Deciding against disturbing the tomb, you continue on.",
       "Satisfied with collecting the mask, you continue on."
     ],
     "OPTIONS": [
-      "[Don the Red Mask] #gUpgrade #gBandit #gContract.",
-      "[Locked] Requires: Red Mask & Bandit Contract.",
-      "[Bash] #rLose ",
-      ". #gObtain #gRed #gMask.",
-      "[Locked] Requires an Attack.",
-      "[Leave]"
+      "[Пожертовать Красную маску] #gУлучшить #gКонтракт #gбандитов.",
+      "[Закрыто] Требуется: Красная маска & Контракт бандитов.",
+      "[Проломить] #rПотерять ",
+      ". #gПолучить #gКрасную #gмаску.",
+      "[Закрыто] Требуется атака.",
+      "[Уйти]"
     ]
   },
   "downfall:WindingHalls": {
