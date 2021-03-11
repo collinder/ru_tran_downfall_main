@@ -16,12 +16,12 @@
   },
   "downfall:CoffeeDripper": {
     "DESCRIPTIONS": [
-      " NL Being unable to Rest, Boss started with less than maximum health."
+      " NL Не имея возможности Отдыхать, Босс начинает с ОЗ меньше максимального."
     ]
   },
   "downfall:BustedCrown": {
     "DESCRIPTIONS": [
-      " NL Being unable to pick optimal cards, Boss has fewer synergistic cards than usual."
+      " NL Не имея возможности добавлять оптимальные карты, Босс имеет меньше, чем обычно, синергетических карт."
     ]
   },
   "downfall:Girya": {
@@ -344,7 +344,7 @@
     "NAME": "Event: Transmogrifier",
     "FLAVOR": "Before you lies an elaborate shrine to a forgotten spirit.",
     "DESCRIPTIONS": [
-      "Boss transformed a starter card into a new card."
+      "Босс трансормировал(-а) стартовую карту в новую карту."
     ]
   },
   "downfall:TombRedMask": {
