@@ -136,24 +136,24 @@
     ]
   },
   "downfall:WeMeetAgain": {
-    "NAME": "We Meet Again!",
+    "NAME": "Вы снова встретились!",
     "DESCRIPTIONS": [
-      "\"BOSS!\" A cheery disheveled fellow approaches you gleefully. You know this man well. NL \"It's me, #yRanwid! You wouldn't believe what I've swindled from the cursed heroes! Do you have any more junk I can give them?\" NL You appreciate his friendliness and consider your options. Surely you have something Ranwid can use in his next \"deal\"...",
-      "\"Oh, this is perfect! It's complete junk! Here, take these elixirs the last few fools gave me!\" NL Ranwid fumbles around his pouches, producing three bottles for you, though nearly dropping them in the process.",
-      "\"Magnificent! This will be quite handy for my next deal. Oh, and I've been harvesting the corpses, as you requested!\" NL Ranwid hands you a soul stone, then scurries away, looking for a new face to sell your useless trinket to.",
-      "\"Exemplary! With just a little work, I can make this look like something truly special.\" NL Ranwid departs, examining the relic carefully, no doubt pondering how he will exaggerate its usefulness to the next adventurer he meets.",
-      "\"Nothing today boss? Okay!\" NL He scampers away."
+      "\"БОСС!\" Весёлый взъерошенный парень радостно подходит к вам. Вы знаете этого человека хорошо. NL \"Это же я, #yРанвид! Не поверишь, что я увед у этих проклятых героев! У тебя есть ещё хлам для них?\" NL Вы цените его дружелюбие и рассматриваете ваши варианты. Surely you have something Ranwid can use in his next \"deal\"...",
+      "\"Прелестно! It's complete junk! Here, take these elixirs the last few fools gave me!\" NL Ranwid fumbles around his pouches, producing three bottles for you, though nearly dropping them in the process.",
+      "\"Великолепно! This will be quite handy for my next deal. Oh, and I've been harvesting the corpses, as you requested!\" NL Ranwid hands you a soul stone, then scurries away, looking for a new face to sell your useless trinket to.",
+      "\"Невероятно! With just a little work, I can make this look like something truly special.\" NL Ranwid departs, examining the relic carefully, no doubt pondering how he will exaggerate its usefulness to the next adventurer he meets.",
+      "\"Сегодня ничего, босс? Окей!\" NL Он уносится вдаль."
     ],
     "OPTIONS": [
-      "[Lose ",
+      "[Потерять ",
       "] ",
-      "#gGain #g3 #gPotions.",
-      "#gGain ",
-      " #ySouls.",
-      "#gGain #ga #yRare #gCard.",
-      "[Leave]",
-      "[Locked] No Relic to give.",
-      "#gGain #g2 #gPotions."
+      "#gПолучить #g3 #gзелья.",
+      "#gПолучить ",
+      " #yдуш.",
+      "#gПолучить #yРедкую #gкарту.",
+      "[Уйти]",
+      "[Закрыто] Требуется : Реликвия, чтобы отдать.",
+      "#gПолучить #g2 #gзелья."
     ]
   },
   "downfall:Designer": {
@@ -297,16 +297,16 @@
     ]
   },
   "downfall:Ghosts": {
-    "NAME": "Council of Ghosts",
+    "NAME": "Совет призраков",
     "DESCRIPTIONS": [
-      "As you continue your descent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #r~the~ #r~Heart~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@IT@ #r@ALWAYS@ #r@SENDS@ #r@THE@ #r@WEAKEST@ #r@PAWNS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
-      "\"An @offering!@ How ~tempting...\"~ NL NL As the ghostly shape speaks, you notice its large mouth opening wider and wider. Within your body, you feel the #b~souls~ collected from the dead forced out in a violent spiral into the spirit's gaping maw. It takes all of your strength to maintain your ground and not be pulled in yourself. NL NL Just before your stamina gives out, the ghostly vortex stops, and the spirits fade into the ether. NL NL You continue on, feeling slightly #bhollow."
+      "Вы продолжаете своё спуск, но внезапно комнату заполняет #p~густой~ #p~чёрный~ #p~дым,~ формируя три гигантские фигуры в масках. Они начинают говорить. NL NL ~«Очередная~ ~марионетка~ #y~Сердца,~ ~я~ ~полагаю.»~ NL #r@«ПОХОЖЕ@ #r@НА@ #r@ТО!@ #r@ОНО@ #r@ВСЕГДА@ #r@ПОСЫЛАЕТ@ #r@СЛАБЕЙШИХ@ #r@ПЕШЕК!»@ NL NL Вы видите невероятно широкую улыбку, когда третья фигура обращается к вам. NL «Не слушай их... Хочешь ли ты почувствовать нашу #y~силу?»~  ",
+      "\"@Подношение!@ Как ~заманчиво...\"~ NL NL Пока призрачная фигура говорит, вы видите, как её рот открывается всё шире и шире. Внутри вашего тела, вы чувствуете, как накопленные с мертвых #b~души~ неистово  высасывает  прямо в зияющий пустотой рот призрака. Требуется вся ваша сила, чтобы устоять и не быть высосанным самому. NL NL Just before your stamina gives out, the ghostly vortex stops, and the spirits fade into the ether. NL NL You continue on, feeling slightly #bhollow."
     ],
     "OPTIONS": [
-      "[Offer] #rLose #r",
-      " Souls. #gReceive Apparition.",
-      "[Locked] Requires ",
-      " Souls."
+      "[Поднести] #rПотерять #r",
+      " душ. #gПолучить Призрачность.",
+      "[Закрыто] Требуется ",
+      " душ."
     ]
   },
   "downfall:CursedTome": {
@@ -344,12 +344,12 @@
     ]
   },
   "downfall:Nloth": {
-    "NAME": "N'loth",
+    "NAME": "Н'лот",
     "DESCRIPTIONS": [
       "Deciding this bottom-feeder of a creature does not belong in the Spire, you deliver a swift and powerful blow directly to N'loths chest. NL NL As the creature recoils in agony, its tentacles @lash@ @out@ at you in reflex, leaving a #rpainful sting! NL NL When the creature's lifeless form hits the ground, you hear the rattling of charms and trinkets. Scouring through his body, just as it once scoured through the trash pile, you uncover a potent magical item."
     ],
     "OPTIONS": [
-      "[Punch] #gGain #gRandom #gRelic. #rBecome #rCursed #r- #rPain."
+      "[Врезать] #gПолучить #gслуч. #gреликвию. #rПолучить #rПроклятье #r- #rБоль."
     ]
   },
   "downfall:KnowingSkull": {
