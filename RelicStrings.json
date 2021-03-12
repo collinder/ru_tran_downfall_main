@@ -31,8 +31,8 @@
   },
   "downfall:Matroyshka": {
     "DESCRIPTIONS": [
-      " NL Boss acquired ",
-      " additional relics."
+      " NL Босс получил ",
+      " доп. реликвии."
     ]
   },
   "downfall:Ectoplasm": {
@@ -43,25 +43,25 @@
   },
   "downfall:BlackStar": {
     "DESCRIPTIONS": [
-      " NL Boss acquired ",
-      " additional relics, but starts with less than maximum health."
+      " NL Босс получил ",
+      " доп. реликвии, но начинает с меньшим, чем макс. здоровьем."
     ]
   },
   "downfall:MoltenEgg": {
     "DESCRIPTIONS": [
-      " NL Boss upgraded ",
-      " Attacks from this relic."
+      " NL Босс улучшил ",
+      " Атаки из-за этой реликвии."
     ]
   },
   "downfall:ToxicEgg": {
     "DESCRIPTIONS": [
-      " NL Boss upgraded ",
-      " Skills from this relic."
+      " NL Босс улучшил ",
+      " Навыка из-за этой реликвии."
     ]
   },
   "downfall:FrozenEgg": {
     "DESCRIPTIONS": [
-      "Boss has many Upgraded Powers."
+      "У Босса много Улучшенных Талантов."
     ]
   },
   "downfall:Shovel": {
@@ -72,13 +72,13 @@
   },
   "downfall:CBRSerpentHead": {
     "DESCRIPTIONS": [
-      " NL Boss used this gold to remove 2 cards from their deck."
+      " NL Босс использовал это золото, чтобы удалить 2 карты из его колоды."
     ]
   },
   "downfall:CursedKey": {
     "DESCRIPTIONS": [
-      " NL Boss gained ",
-      " Curses from this relic."
+      " NL Босс получил ",
+      " Проклятья из-за этой реликвия."
     ]
   },
   "downfall:DreamCatcher": {
@@ -100,7 +100,7 @@
   },
   "downfall:RunicDome": {
     "DESCRIPTIONS": [
-      " NL Boss may choose the order of cards unfavorably."
+      " NL Босс может выбрать порядок карт неправильно."
     ]
   },
   "downfall:CentennialPuzzle": {
@@ -124,7 +124,7 @@
     ]
   },
   "downfall:Vampires": {
-    "NAME": "Event: Vampires",
+    "NAME": "Событие: Вампиры",
     "FLAVOR": "The master's blood... the master's blood! THE MASTER'S BLOOD!",
     "DESCRIPTIONS": [
       "Strikes have been replaced with Bites. NL -",
@@ -381,12 +381,12 @@
     "DESCRIPTIONS": [
       "Upon pickup, add the following cards to your deck: NL ",
       "Upon pickup, add 6 cards to your deck from the Match Game.",
-      "#g(Starter) ",
+      "#g(Стартовая) ",
       "#g(Common) ",
       "#b(Uncommon) ",
-      "#y(Rare) ",
+      "#y(Редкая) ",
       "#b(Colorless) ",
-      "#r(Curse) "
+      "#r(Проклятье) "
     ]
   },
   "downfall:GremlinWheel": {
@@ -419,29 +419,29 @@
     ]
   },
   "downfall:RedIOU": {
-    "NAME": "Bandit Contract",
+    "NAME": "Контракт бандитов",
     "FLAVOR": "An agreement from the Bandit trio - partially in exchange for a trinket, but mostly in exchange for their lives.",
     "DESCRIPTIONS": [
       "At the start of the #b3rd boss combat, Red Mask Bandits will assist you.",
-      "It's time for work, boys!",
+      "Время поработать, парни!",
       "Get 'em Bear!",
       "A deal's a deal. NL We're done here.",
       "All hail the new NL ~Lord~ ~Red~ ~Mask!~",
-      "Good luck, boss!"
+      "Удачи, босс!"
     ]
   },
   "downfall:RedIOUUpgrade": {
-    "NAME": "Bandit Contract+",
+    "NAME": "Контракт бандитов+",
     "FLAVOR": "An agreement from the Bandit trio - partially in exchange for a trinket, but mostly in exchange for their lives.",
     "DESCRIPTIONS": [
       "At the start of the #b3rd boss combat, Red Mask Bandits will assist you."
     ]
   },
   "downfall:KnowingSkull": {
-    "NAME": "Knowing Skull",
-    "FLAVOR": "Put me down!",
+    "NAME": "Всеведущий череп",
+    "FLAVOR": "Поставь меня обратно!",
     "DESCRIPTIONS": [
-      "At the start of each combat, you may Wish for Souls, Success, or a Pick me Up."
+      "Вы можете пожелать Души, Успех, or a Pick me Up в начале боя."
     ]
   },
   "downfall:HeartBlessingRed": {
