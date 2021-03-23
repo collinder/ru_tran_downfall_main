@@ -116,23 +116,23 @@
     ]
   },
   "downfall:CursedFountain": {
-    "NAME": "The Cursed Fountain",
+    "NAME": "Проклятый фонтан",
     "DESCRIPTIONS": [
-      "You come across a tinged #p~purple~ #p~liquid~ flowing endlessly from a fountain on a nearby wall. It is one you recognize as deadly to most creatures, but quite beneficial to those subjected to a curse.",
-      "As you drink the #p~liquid,~ you feel a #pdark #pgrasp reach into your mind. It feels luxurious and refreshing.",
-      "Sensing that this #p~liquid~ may be useful, you decide to capture some in a jar to use later. Creatures not attuned to the #pdark #pwater will surely suffer when doused in it.",
-      "The fountain's #p~liquid~ is roiling in the souls of the lost. It seems a waste to not make use of them. You channel the souls into your form, ripping them from the #pcursed #pfountain's magic.",
-      "Leaving the fountain behind, you continue on your way."
+      "Вы натыкаетесь на окрашенную в #p~фиолетовый~ #p~цвет~ #p~жидкость,~ нескончаемо текущую из фонтана на ближайшей стене. Это то, что вы признаёте смертельным для большинства существ, но весьма полезным для тех, кто подвергся проклятию.",
+      "Вы выпиваете #p~жидкости~ и ощущаете, как #pтёмная #pхватка проникает в ваш разум. Это чувство превосходно и освежающе.",
+      "Чуя, что эта #p~жидкость~ может быть полезна, вы решаете захватить немного в колбу, чтобы использовать позже. Существа, не готовые окунуться в #pтёмную #pводу, наверняка, будут страдать.",
+      "#p~Жидкость~ фонтана бурлит в душах заблудших. Не взять их за просто так - грех для вас. Вы направляете души в свою форму, отрывая их от магии #pпроклятого #pфонтана.",
+      "Оставив фонтан позади, вы продолжаете свой путь."
     ],
     "OPTIONS": [
-      "[Bottle] #gGain #gCursed #gLiquid #gPotion.",
-      "[Consume] #gGain #g75 #ySouls.",
-      "[Drink] #gHeal #gto #gfull #gHP.",
-      "[Locked] Requires a curse.",
-      "[Locked] Requires 2 curses.",
-      "[Locked] Requires 3 curses.",
-      "[Locked] Already used.",
-      "[Leave]"
+      "[Колба] #gПолучить #gПроклятое #gжидкое #gзелье.",
+      "[Поглотить] #gПолучить #g75 #yДуш.",
+      "[Выпить] #gВосполнить #gвсе #gОЗ.",
+      "[Закрыто] Требуется: Проклятие.",
+      "[Закрыто] Требуется: 2 Проклятия.",
+      "[Закрыто] Требуется: 3 Проклятия.",
+      "[Закрыто] Уже использовано.",
+      "[Уйти]"
     ]
   },
   "downfall:WeMeetAgain": {
@@ -278,7 +278,7 @@
       "[Собрать] #gПолучить #y",
       " #yДуш.",
       "[Уйти]",
-      "[Закрыто] Требуется Удар."
+      "[Закрыто] Требуется: Удар."
     ]
   },
   "downfall:Cleric": {
